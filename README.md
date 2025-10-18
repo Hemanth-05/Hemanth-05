@@ -8,7 +8,7 @@ I'm currently working on an blog posts application
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Hemanth-05&theme=dark&hide_border=false&date_range=2025-01-01:2025-12-31)
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Hemanth-05&theme=dark&hide_border=false&date-range=2025-01-01:2025-12-31)
 
 
 ---
