@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on an blog posts application
+Currently working on an backend application projects
 
 
 ## 🌐 Socials:
