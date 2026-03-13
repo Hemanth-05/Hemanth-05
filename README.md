@@ -28,7 +28,7 @@ Features:
 • Vector embeddings for semantic search  
 • Context-aware LLM responses grounded in uploaded documents  
 
-🔗 Live Demo: [https://huggingface.co/spaces/YOUR_PROJECT_LINK](https://huggingface.co/spaces/Group-1-5010/NotebookLM)
+🔗 Live Demo: [NotebookLM Clone](https://huggingface.co/spaces/Group-1-5010/NotebookLM)
 
 ### Learning Logs
 Public repository documenting my **daily progress while learning backend systems, databases, and algorithms.**
