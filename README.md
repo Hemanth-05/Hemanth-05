@@ -22,12 +22,15 @@ Backend system for tracking personal expenses with **category-based analytics** 
 Collaborative **RESTful backend service** supporting hotel listings, bookings, authentication, and role-based access control.
 
 ### NotebookLM Clone (AI + RAG System)
-AI-powered research assistant that allows users to upload documents and query them using Retrieval-Augmented Generation (RAG).
+AI-powered research assistant that allows users to upload documents and ask questions using **Retrieval-Augmented Generation (RAG)**.
 Features:
-• Document ingestion and chunking  
+• Document ingestion and chunking pipeline  
 • Vector embeddings for semantic search  
 • Context-aware LLM responses grounded in uploaded documents  
 
+Tech: Python, LLM APIs, Vector Embeddings, Semantic Search
+
+Repo: [NotebookLM Clone Repo](https://huggingface.co/spaces/Group-1-5010/NotebookLM/tree/main)  
 🔗 Live Demo: [NotebookLM Clone](https://huggingface.co/spaces/Group-1-5010/NotebookLM)
 
 ### Learning Logs
