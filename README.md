@@ -15,3 +15,66 @@ Currently working on an Expense-Tracker Project (Personal Project)
 [![](https://visitcount.itsvg.in/api?id=Hemanth-05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 💫 About Me
+
+🎓 MS in Computer Science student at **UNC Charlotte**  
+💻 Backend-focused developer passionate about **building APIs and scalable web applications**
+
+Currently building an **Expense Tracker** to explore:
+- API design
+- Database modeling
+- Financial data analytics
+- Full-stack application architecture
+
+I enjoy solving real-world problems through code and continuously improving my understanding of backend systems and software engineering.
+
+---
+
+# 🚀 Featured Projects
+
+### Expense Tracker (Personal Project)
+Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
+
+### Hotel Booking API
+Collaborative **RESTful backend service** supporting hotel listings, bookings, authentication, and role-based access control.
+
+### Learning Logs
+Public repository documenting my **daily progress while learning backend systems, databases, and algorithms.**
+
+---
+
+# 🧠 Currently Focused On
+
+• Backend Development (Node.js, Express)  
+• REST API Design  
+• PostgreSQL & Database Modeling  
+• System Design Fundamentals  
+• Building real-world projects  
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-pasupula-6ab5211b5/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hpasupul@charlotte.edu)
+
+---
+
+# 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=Hemanth-05&theme=dark&hide_border=false)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Hemanth-05&icon=0&color=0)](https://visitcount.itsvg.in)
