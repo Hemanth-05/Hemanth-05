@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on an backend application projects
+Currently working on an Expense-Tracker Project (Personal Project)
 
 
 ## 🌐 Socials:
