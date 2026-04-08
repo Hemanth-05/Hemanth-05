@@ -18,6 +18,17 @@ I enjoy solving real-world problems through code and continuously improving my u
 ### Expense Tracker (Personal Project)
 Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
 
+• Full CRUD for expenses
+• Category-based organization
+• Monthly and yearly expense filtering
+• Spending summaries by category
+• Integrated frontend and backend deployment
+
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma  
+
+Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)
+🔗Live Demo: [Expense-Tracker](https://expense-tracker-nine-alpha-57.vercel.app/?jr_id=l_4394690007)
+
 ### Hotel Booking API
 Collaborative **RESTful backend service** supporting hotel listings, bookings, authentication, and role-based access control.
 
@@ -28,7 +39,7 @@ Features:
 • Vector embeddings for semantic search  
 • Context-aware LLM responses grounded in uploaded documents  
 
-Tech: Python, LLM APIs, Vector Embeddings, Semantic Search
+**Tech Stack:** Python, LLM APIs, Vector Embeddings, Semantic Search
 
 Repo: [NotebookLM Clone Repo](https://huggingface.co/spaces/Group-1-5010/NotebookLM/tree/main)  
 🔗 Live Demo: [NotebookLM Clone](https://huggingface.co/spaces/Group-1-5010/NotebookLM)
@@ -65,10 +76,8 @@ Public repository documenting my **daily progress while learning backend systems
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hemanth-05&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hemanth-05&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Hemanth-05&icon=0&color=0)](https://visitcount.itsvg.in)
+![Hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemanth-05&show_icons=true&theme=dark)
