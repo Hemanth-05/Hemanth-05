@@ -13,7 +13,6 @@ I enjoy building real-world applications that solve practical problems and help 
 
 ### Expense Tracker (Personal Project)
 Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
-
 - Full CRUD for expenses
 - Category-based organization
 - Monthly and yearly expense filtering
@@ -33,7 +32,7 @@ AI-powered research assistant that allows users to upload documents and ask ques
 Features:
 - Document ingestion and chunking pipeline  
 - Vector embeddings for semantic search  
-• Context-aware LLM responses grounded in uploaded documents  
+- Context-aware LLM responses grounded in uploaded documents  
 
 **Tech Stack:** Python, LLM APIs, Vector Embeddings, Semantic Search
 
