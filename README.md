@@ -1,15 +1,11 @@
-# 💫 About Me
+## 👋 About Me
 
-🎓 MS in Computer Science student at **UNC Charlotte**  
-💻 Backend-focused developer passionate about **building APIs and scalable web applications** 
+- MS in Computer Science student at UNC Charlotte
+- Backend-focused developer building practical full-stack applications
+- Currently building and improving production-style web projects
+- Interested in APIs, databases, system design, and clean backend architecture
 
-Currently building an **Expense Tracker** to explore:
-- API design
-- Database modeling
-- Financial data analytics
-- Full-stack application architecture
-
-I enjoy solving real-world problems through code and continuously improving my understanding of backend systems and software engineering.
+I enjoy building real-world applications that solve practical problems and help me deepen my understanding of backend systems and software engineering.
 
 ---
 
