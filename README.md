@@ -1,7 +1,7 @@
 # 💫 About Me
 
 🎓 MS in Computer Science student at **UNC Charlotte**  
-💻 Backend-focused developer passionate about **building APIs and scalable web applications**
+💻 Backend-focused developer passionate about **building APIs and scalable web applications** 
 
 Currently building an **Expense Tracker** to explore:
 - API design
