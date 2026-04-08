@@ -14,15 +14,16 @@ I enjoy building real-world applications that solve practical problems and help 
 ### Expense Tracker (Personal Project)
 Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
 
-• Full CRUD for expenses
-• Category-based organization
-• Monthly and yearly expense filtering
-• Spending summaries by category
-• Integrated frontend and backend deployment
+- Full CRUD for expenses
+- Category-based organization
+- Monthly and yearly expense filtering
+- Spending summaries by category
+- Integrated frontend and backend deployment
 
 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma  
 
 Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)
+
 🔗Live Demo: [Expense-Tracker](https://expense-tracker-nine-alpha-57.vercel.app/?jr_id=l_4394690007)
 
 ### Hotel Booking API
@@ -31,8 +32,8 @@ Collaborative **RESTful backend service** supporting hotel listings, bookings, a
 ### NotebookLM Clone (AI + RAG System)
 AI-powered research assistant that allows users to upload documents and ask questions using **Retrieval-Augmented Generation (RAG)**.
 Features:
-• Document ingestion and chunking pipeline  
-• Vector embeddings for semantic search  
+- Document ingestion and chunking pipeline  
+- Vector embeddings for semantic search  
 • Context-aware LLM responses grounded in uploaded documents  
 
 **Tech Stack:** Python, LLM APIs, Vector Embeddings, Semantic Search
