@@ -22,8 +22,7 @@ Backend system for tracking personal expenses with **category-based analytics** 
 
 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma  
 
-Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)
-
+Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)  
 🔗Live Demo: [Expense-Tracker](https://expense-tracker-nine-alpha-57.vercel.app/?jr_id=l_4394690007)
 
 ### Hotel Booking API
