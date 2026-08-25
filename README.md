@@ -12,7 +12,20 @@ I enjoy building real-world applications that solve practical problems and help 
 # 🚀 Featured Projects
 
 ### Hotel Booking API
-Collaborative **RESTful backend service** supporting hotel listings, bookings, authentication, and role-based access control.
+
+Collaborative RESTful backend service for managing hotels, rooms, users, and reservations with JWT authentication and role-based access control.
+
+Designed RESTful APIs for users, hotels, rooms, and bookings
+Implemented JWT-based authentication and protected routes
+Added role-based authorization for guests, hotel owners, and admins
+Built booking validation for room availability, date ranges, capacity limits, and overlapping reservations
+Structured the backend using a layered route-controller-service-repository architecture
+Documented and tested APIs using Swagger/OpenAPI and Postman
+
+Tech Stack: Node.js, Express.js, PostgreSQL, Prisma, JWT, Swagger/OpenAPI
+
+Repo: [Hotel-Booking-API-Repo](https://github.com/Hemanth-05/Hotel-Booking-API)  
+🔗 Live Demo: [Hotel-Booking-API](https://hotel-booking-six-mu.vercel.app/)
 
 ### NotebookLM Clone (AI + RAG System)
 AI-powered research assistant that allows users to upload documents and ask questions using **Retrieval-Augmented Generation (RAG)**.
