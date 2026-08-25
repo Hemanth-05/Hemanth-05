@@ -11,19 +11,6 @@ I enjoy building real-world applications that solve practical problems and help 
 
 # 🚀 Featured Projects
 
-### Expense Tracker (Personal Project)
-Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
-- Full CRUD for expenses
-- Category-based organization
-- Monthly and yearly expense filtering
-- Spending summaries by category
-- Integrated frontend and backend deployment
-
-**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma  
-
-Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)  
-🔗Live Demo: [Expense-Tracker](https://expense-tracker-nine-alpha-57.vercel.app/?jr_id=l_4394690007)
-
 ### Hotel Booking API
 Collaborative **RESTful backend service** supporting hotel listings, bookings, authentication, and role-based access control.
 
@@ -38,6 +25,19 @@ Features:
 
 Repo: [NotebookLM Clone Repo](https://huggingface.co/spaces/Group-1-5010/NotebookLM/tree/main)  
 🔗 Live Demo: [NotebookLM Clone](https://huggingface.co/spaces/Group-1-5010/NotebookLM)
+
+### Expense Tracker (Personal Project)
+Backend system for tracking personal expenses with **category-based analytics** and **monthly/yearly summaries**.
+- Full CRUD for expenses
+- Category-based organization
+- Monthly and yearly expense filtering
+- Spending summaries by category
+- Integrated frontend and backend deployment
+
+**Tech Stack:** React, Node.js, Express.js, PostgreSQL, Prisma  
+
+Repo: [Expense-Tracker Repo](https://github.com/Hemanth-05/Expense-Tracker)  
+🔗Live Demo: [Expense-Tracker](https://expense-tracker-nine-alpha-57.vercel.app/?jr_id=l_4394690007)
 
 ### Learning Logs
 Public repository documenting my **daily progress while learning backend systems, databases, and algorithms.**
